@@ -1,0 +1,39 @@
+#Autosave files
+*~
+
+# Build/test output
+obj
+bin
+Components
+test-results
+packages/
+ERTSpec/packages/
+TestResults/
+todo2.keystore
+.fake/
+build-helpers.fsx
+build.fsx
+build.sh
+cert.sh
+source.sh
+
+# VS sometimes writes these for no apparent reason
+_UpgradeReport_Files
+UpgradeLog.*
+
+# Per-user data
+*.DS_Store
+*.sln.cache
+*.suo
+*.userprefs
+*.usertasks
+*.user
+
+# ReSharper
+*_Resharper.*
+*.Resharper
+
+# dotCover
+*.dotCover
+/.vs
+.vs
